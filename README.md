@@ -51,7 +51,7 @@ The data includes the NORAD catalog IDs, object names, times of closest approach
 
 ## Visualization Example
 
-Below is an example visualization from the notebook, showing the daily number of conjunctions for a selected satellite:
+Below is an example visualization from the notebook, showing the daily number of conjunctions of all the satellites:
 
 ![Daily Count of Active Satellite Conjunction Visualization](https://github.com/yoyo-gitroi/Conjunction_analysis/assets/67566026/b0561cd3-b123-45d3-98d5-09e222a037b1)
 
